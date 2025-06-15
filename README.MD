@@ -1,2 +1,3 @@
-<h2> Compte Rendu </h2>
-<img src="src/backend.png"/>
+<h2> Compte Rendu du projet </h2>
+<img src="src/basedeDonnee.png"/>
+<img src="src/dossierBackend.png">
